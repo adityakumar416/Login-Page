@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="About">About_Page</string>
+    <string name="AboutUs">My name is Aditya Kumar.I am a Android App Developer.This is my First App.JVM is an acronym for Java Virtual Machine; it is an abstract machine which provides the runtime environment in which Java bytecode can be executed.</string>
+    <string name="SimpleApp">Simple App</string>
+    <string name="dzine_solution">Dzine Solution</string>
+    <string name="sign_in">Sign in</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="capital_password">PASSWORD</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login">Login</string>
+    <string name="not_account">Does not have account?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="e_mail">Email</string>
+    <string name="capital_e_mail">EMAIL</string>
+    <string name="continue_button">CONTINUE</string>
+    <string name="already_a_user">Already a user?</string>
+    <string name="from">from</string>
+    <string name="meta">∞ Meta</string>
+    <string name="login_capital">LOGIN</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">FULL NAME</string>
+    <string name="confirm_pass">CONFIRM PASSWORD</string>
+    <string name="arrow">→</string>
+    <string name="please_sign_in_to_continue">Please Sign in to continue</string>
+    <string name="required">Required*</string>
+
+
+</resources>

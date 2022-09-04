@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity3">
+
+<androidx.appcompat.widget.AppCompatTextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/create_account"
+    android:layout_marginLeft="40dp"
+    android:layout_marginTop="20dp"
+    android:textSize="30sp"
+    android:textColor="#000000"
+    android:textStyle="bold"/>
+
+
+
+
+    <com.google.android.material.textfield.TextInputLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="20sp"
+        app:startIconDrawable="@drawable/ic_person"
+        app:counterMaxLength="20"
+        app:counterEnabled="true"
+        app:boxCornerRadiusBottomStart="15dp"
+        app:boxCornerRadiusTopEnd="15dp"
+        app:errorEnabled="true"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:singleLine="true"
+
+            android:hint="@string/user_name"
+
+
+
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/capital_e_mail"
+        android:layout_marginTop="8dp"
+        app:boxCornerRadiusBottomStart="15dp"
+        app:boxCornerRadiusTopEnd="15dp"
+        android:layout_marginRight="40dp"
+        app:counterMaxLength="20"
+        app:counterEnabled="true"
+        app:errorEnabled="true"
+        android:layout_marginLeft="40dp"
+        app:startIconDrawable="@drawable/ic_gmail"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:singleLine="true"
+
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+
+
+
+    <com.google.android.material.textfield.TextInputLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/capital_password"
+        android:layout_marginTop="8dp"
+        app:boxCornerRadiusBottomStart="15dp"
+        app:helperText="@string/required"
+        app:boxCornerRadiusTopEnd="15dp"
+        app:helperTextEnabled="true"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        app:errorEnabled="true"
+        app:counterMaxLength="20"
+        app:counterEnabled="true"
+        app:startIconDrawable="@drawable/ic_lock"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:singleLine="true"
+
+
+
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/capital_password"
+        android:layout_marginTop="8dp"
+        app:helperTextEnabled="true"
+        app:helperText="@string/required"
+        app:boxCornerRadiusBottomStart="15dp"
+        app:boxCornerRadiusTopEnd="15dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginLeft="40dp"
+        app:startIconDrawable="@drawable/ic_lock"
+        app:counterMaxLength="20"
+        app:errorEnabled="true"
+        app:counterEnabled="true"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:singleLine="true"
+
+
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:orientation="horizontal"
+    android:layout_marginRight="40dp"
+    android:layout_marginLeft="170dp"
+    android:layout_marginTop="15dp"
+
+    android:background="@drawable/color_button">
+
+
+
+
+    <androidx.appcompat.widget.AppCompatCheckedTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sign_up"
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:textSize="18sp"/>
+    <androidx.appcompat.widget.AppCompatCheckedTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_marginLeft="5dp"
+        android:textSize="30sp"
+
+
+
+        android:text="@string/arrow"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>
+
+  <View
+      android:layout_width="match_parent"
+      android:background="@color/black"
+      android:layout_marginLeft="40dp"
+      android:layout_marginRight="40dp"
+      android:layout_marginTop="20dp"
+      android:layout_height="2dp"/>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatImageView
+
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="80dp"
+            android:layout_marginTop="20dp"
+
+        android:background="@drawable/ic_google_icon"/>
+    <androidx.appcompat.widget.AppCompatImageView
+
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/ic_facebook_icon"/>
+        <androidx.appcompat.widget.AppCompatImageView
+
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/ic_linkedin_icon"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/already_a_user"
+            android:textSize="20sp"
+
+            android:layout_marginLeft="95dp"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/login_capital"
+            android:textSize="20sp"
+            android:onClick="btnBack"
+            android:textStyle="bold"
+            android:layout_marginLeft="3dp"
+            tools:ignore="UsingOnClickInXml" />
+
+
+
+
+
+
+
+
+
+
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+
+
+
+
+
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
+

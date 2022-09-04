@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:scrollbarSize="25sp"
+    tools:context=".SecondActivity">
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:background="@color/red"
+        android:text="RED"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:layout_height="105dp"/>
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:background="@color/orange"
+        android:text="ORANGE"
+        android:textSize="30dp"
+
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:layout_height="110dp"/>
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:background="@color/yellow"
+        android:text="YELLOW"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:layout_height="110dp"/>
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:background="@color/green"
+        android:text="GREEN"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:layout_height="110dp"/>
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:background="@color/blue"
+        android:text="BLUE"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:textColor="@color/black"
+        android:layout_height="110dp"/>
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:background="@color/indigo"
+        android:text="INDIGO"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:textColor="@color/black"
+        android:layout_height="110dp"/>
+
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:background="@color/violet"
+        android:text="VIOLET"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:textColor="@color/black"
+        android:layout_height="110dp"/>
+
+
+
+
+
+
+
+
+
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
+
+
+
+
+
+
