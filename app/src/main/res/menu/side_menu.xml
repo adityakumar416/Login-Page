@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <group android:checkableBehavior="single">
+            <item android:id="@+id/camera"
+                 android:icon="@drawable/camera_icon"
+                android:title="@string/Import"/>
+            <item android:id="@+id/gallery"
+                android:icon="@drawable/ic_icon_photos"
+                android:title="@string/gallery"
+                />
+            <item android:id="@+id/slideshow"
+                android:icon="@drawable/video_library_icon"
+                android:title="@string/slideshow"/>
+            <item android:id="@+id/tools"
+                android:icon="@drawable/ic_tool_icon"
+                android:title="@string/tools"/>
+        </group>
+</menu>

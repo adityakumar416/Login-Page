@@ -25,6 +25,14 @@
     <string name="arrow">→</string>
     <string name="please_sign_in_to_continue">Please Sign in to continue</string>
     <string name="required">Required*</string>
+    <string name="menu">Menu</string>
+    <string name="Import">Import</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="tools">Tools</string>
+    <string name="menu_open">Open</string>
+    <string name="close_menu">Close</string>
+    <string name="this_is_camera">This is Camera</string>
 
 
 </resources>
