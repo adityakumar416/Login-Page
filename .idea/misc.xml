@@ -10,6 +10,7 @@
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/header_file.xml" value="0.157" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_contact_us.xml" value="0.2285" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_facebook_icon.xml" value="0.1725" />
+        <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_gmail.xml" value="0.1365" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_google_icon.xml" value="0.145" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1195" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_linkedin_icon.xml" value="0.1725" />
@@ -18,19 +19,27 @@
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/instagram_logo_background.xml" value="0.1725" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/instagrm_log_background.xml" value="0.1" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/instagrm_logo_background.xml" value="0.1725" />
+        <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/login_color_button.xml" value="0.157" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/menu_icon.xml" value="0.157" />
+        <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_drawel.xml" value="0.21041666666666667" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_drawer.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_drower.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_login2.xml" value="0.21041666666666667" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main2.xml" value="0.25" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main3.xml" value="0.20885416666666667" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_registration.xml" value="0.20885416666666667" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_registration2.xml" value="0.21041666666666667" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_second.xml" value="0.25" />
+        <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_splash2.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_splash_screen.xml" value="0.20885416666666667" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/app_bar_layout.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_camera.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_gallery.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_tool.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_video.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/layout/top_bar.xml" value="0.2078125" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/menu/side_menu.xml" value="0.22447916666666667" />
         <entry key="..\:/Users/macBook/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1195" />

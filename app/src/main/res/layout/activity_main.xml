@@ -7,12 +7,23 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:id="@+id/drawer"
-    tools:openDrawer="start"
+
+
     >
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
+        android:orientation="vertical"
         android:layout_height="match_parent">
         <include layout="@layout/app_bar_layout"/>
+
+
+            <androidx.fragment.app.FragmentContainerView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/container">
+
+            </androidx.fragment.app.FragmentContainerView>
+
     </androidx.appcompat.widget.LinearLayoutCompat>
 
 

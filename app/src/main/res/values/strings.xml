@@ -33,6 +33,15 @@
     <string name="menu_open">Open</string>
     <string name="close_menu">Close</string>
     <string name="this_is_camera">This is Camera</string>
+    <string name="forgot">FORGOT</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_fragment">Hello_fragment</string>
+    <string name="camera_fragment">Camera Fragment</string>
+    <string name="gallery_fragment">Gallery Fragment</string>
+    <string name="tool_fragment">Tool Fragment</string>
+    <string name="video_fragment">Video Fragment</string>
 
 
 </resources>

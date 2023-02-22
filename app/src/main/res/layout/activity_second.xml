@@ -8,7 +8,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:scrollbarSize="25sp"
-    tools:context=".SecondActivity">
+    >
 
 
     <androidx.appcompat.widget.AppCompatTextView
